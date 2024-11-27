@@ -57,9 +57,21 @@ const siteConfig: SiteConfig = {
         {
             text: 'About',
             href: '/about'
+        },
+        {
+            text: 'Contact',
+            href: '/contact'
         }
     ],
     footerNavLinks: [
+        {
+            text: 'Home',
+            href: '/'
+        },
+        {
+            text: 'Archive',
+            href: '/blog'
+        },
         {
             text: 'About',
             href: '/about'
@@ -67,24 +79,20 @@ const siteConfig: SiteConfig = {
         {
             text: 'Contact',
             href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
         }
     ],
     socialLinks: [
         {
             text: 'VictorReverter',
-            href: 'https://dribbble.com/'
+            href: 'https://victorreverter.com/'
         },
         {
             text: 'Instagram',
-            href: 'https://instagram.com/'
+            href: 'https://www.instagram.com/victorreverter/'
         },
         {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/victorreverter/'
         }
     ],
     hero: {
